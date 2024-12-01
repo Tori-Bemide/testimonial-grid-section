@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Server]()
+- Solution URL: [Solution](https://github.com/Tori-Bemide/testimonial-grid-section)
+- Live Site URL: [Live Server](https://tori-bemide.github.io/testimonial-grid-section/)
 
 ## My process
 
